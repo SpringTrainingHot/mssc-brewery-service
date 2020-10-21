@@ -1,4 +1,4 @@
-package com.taranenkoant.msscbreweryservice.we.model;
+package com.taranenkoant.msscbreweryservice.web.model;
 
 import org.springframework.data.domain.PageImpl;
 import org.springframework.data.domain.Pageable;
