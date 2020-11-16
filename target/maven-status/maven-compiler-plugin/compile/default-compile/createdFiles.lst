@@ -1,0 +1,11 @@
+com\taranenkoant\msscbreweryservice\web\model\BeerDTO.class
+com\taranenkoant\msscbreweryservice\web\model\BeerPagedList.class
+com\taranenkoant\msscbreweryservice\bootstrap\BeerLoader.class
+com\taranenkoant\msscbreweryservice\web\controller\BeerController.class
+com\taranenkoant\msscbreweryservice\web\model\BeerStyleEnum.class
+com\taranenkoant\msscbreweryservice\MsscBreweryServiceApplication.class
+com\taranenkoant\msscbreweryservice\repositories\BeerRepository.class
+com\taranenkoant\msscbreweryservice\domain\Beer$BeerBuilder.class
+com\taranenkoant\msscbreweryservice\domain\Beer.class
+com\taranenkoant\msscbreweryservice\web\model\BeerDTO$BeerDTOBuilder.class
+com\taranenkoant\msscbreweryservice\web\controller\MvcExceptionHandler.class
