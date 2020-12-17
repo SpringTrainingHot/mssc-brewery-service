@@ -3,6 +3,8 @@ com\taranenkoant\msscbreweryservice\web\mappers\BeerMapperImpl.class
 com\taranenkoant\msscbreweryservice\bootstrap\BeerLoader.class
 com\taranenkoant\msscbreweryservice\web\mappers\DateMapper.class
 com\taranenkoant\msscbreweryservice\web\controller\MvcExceptionHandler.class
+com\taranenkoant\msscbreweryservice\services\BeerServiceImpl.class
+com\taranenkoant\msscbreweryservice\web\controller\NotFoundException.class
 com\taranenkoant\msscbreweryservice\web\model\BeerDTO.class
 com\taranenkoant\msscbreweryservice\web\controller\BeerController.class
 com\taranenkoant\msscbreweryservice\web\model\BeerStyleEnum.class
@@ -11,4 +13,5 @@ com\taranenkoant\msscbreweryservice\repositories\BeerRepository.class
 com\taranenkoant\msscbreweryservice\domain\Beer$BeerBuilder.class
 com\taranenkoant\msscbreweryservice\domain\Beer.class
 com\taranenkoant\msscbreweryservice\web\mappers\BeerMapper.class
+com\taranenkoant\msscbreweryservice\services\BeerService.class
 com\taranenkoant\msscbreweryservice\web\model\BeerDTO$BeerDTOBuilder.class
